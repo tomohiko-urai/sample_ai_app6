@@ -20,7 +20,7 @@ camerapos = ["0","1","2"]
 
 st.set_option("deprecation.showfileUploaderEncoding", False)
 
-st.sidebar.title("トマト画像収穫認識アプリ")
+st.sidebar.title("トマト画像収穫認識アプリVer1.1")
 st.sidebar.write("オリジナルの画像認識モデルを使ってトマト収穫判定します。")
 
 st.sidebar.write("")
