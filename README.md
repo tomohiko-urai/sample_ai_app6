@@ -1,2 +1,2 @@
 # sample_ai_app6
-#Shainmasukattoc収穫判定画像アプリ
+トマト画像収穫認識アプリVer1.1
